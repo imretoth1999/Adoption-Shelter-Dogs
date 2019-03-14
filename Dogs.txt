@@ -1,0 +1,11 @@
+Labrador,Rex,1,https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2016/07/Charcoal-Labrador-Puppies-for-Sale-600x600.jpg,10
+Golden Retriever,Jack,2,http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Golden-Retriever-2.jpg,1
+Pitbull,Inka,3,https://5.imimg.com/data5/GX/VI/MY-1596325/pitbull-dog-breed-250x250.jpg,4
+Teckel,Mike,4,https://img01-olxro.akamaized.net/img-olxro/179957217_1_261x203_teckel-de-inalta-calitate-genetica-bucuresti.jpg,3
+Pug,Jane,5,https://img01-olxro.akamaized.net/img-olxro/197921025_1_261x203_mops-pug-oradea.jpg,5
+German Sheppard,Milo,6,http://cdn1-www.dogtime.com/assets/uploads/gallery/german-shepherd-dog-breed-pictures/happysitting-8.jpg,6
+Bulldog,James,7,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ9VKW8SoCos3IvZulenZQJtbFVKDh1_5jWbfTDSfWnpyIDjSJwg,2
+Beagle,Jessica,8,https://img01-olxro.akamaized.net/img-olxro/64344400_1_261x203_puiuti-beagle-de-vanzare-oradea.jpg,2
+Pudel,Martha,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8XQv3hFkRWnDzJmQzxse0EXvTmt1c_7q6oqIfO4SU10hcmTghFw,1
+Dobermann,Lucky,10,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT_IEZ2205jP4IyKIRmxPaPAcaVPuQWm2r_2M-WHhrCxex9HZpw,8
+A222,Alex,10,www.google.com,10
